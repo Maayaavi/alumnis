@@ -33,14 +33,14 @@ projects:
     description: Je suis actuellement en formation en développeur d’application Python chez Openclassrooms. Mais également en plein reconversion professionnel après plusieurs années dans le monde du transport et de la logistique, j'ai trouvé par pure hasard ma vocation dans le codage. Je suis un grand passionné par le digital et les nouvelles technologies qui apparaissent chaque jour. N’hésitez pas donc à me solliciter via le lien de ma page LinkedIn ici en bas et je suis prêt à échanger sur tous les sujets.
     # Create a new repository for your images. Name it the same as your nickname and profile picture.
     # Image must be here: content/students/yourrepo/project1.png
-    image: lavaniyaneyasiri/projet_1.png
+    image: lavaniyanjeyasiri/projet_1.png
     link: www.linkedin.com/in/jeyasiri-lavaniyan-5a7384192
     # 'true' makes it fully available.
     # 'false' will add a black layer on the picture. IT WILL BE PUBLIC!
     finished: true
   - title: Intégrez la communauté !
     description: Modifier un projet Open Source pour comprendre le fonctionnement de Git, de Github et des pull requests. 
-    image: lavaniyaneyasiri/projet_2.png
+    image: lavaniyanjeyasiri/projet_2.png
     link: https://github.com/Maayaavi/alumnis.git
     finished: true
   - title: Aidez MacGyver à sortir !
